@@ -3,3 +3,4 @@ Hello,lss!
 Hello,1552560896@qq.com
 test dev and disable fast-forward ranch
 test stash
+test conflict two
